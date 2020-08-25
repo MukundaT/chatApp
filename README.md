@@ -14,3 +14,4 @@ One To One Chat Application Using Swift
   -> Cocoatouch is Used to create separate design where the message will be displayed, this can be viewed in .xib file
  
  
+ 
